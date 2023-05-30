@@ -328,7 +328,7 @@ for cam=1:2
                         LELBOW=new_markers(:,:,11);
                         LWRIST=new_markers(:,:,12);
                         
-                        %Instead of using the real digitizing point at the
+                        %Instead of using the real digitized point at the
                         %side of the hip, we are creating a mid point,
                         %which is more inside (1/4) that the real point
                         RHIP=(hipr*0.75)+(hipl*0.25);
