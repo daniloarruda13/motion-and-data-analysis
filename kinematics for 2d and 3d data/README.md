@@ -6,6 +6,3 @@ This folder contains a MATLAB script: "crp_2d_3d.m" and its corresponding functi
 4. 2D data (ball): Calculation of velocity, angle, and distances;
 5. 3D data (body segments): segment angles, angular velocity, segment position, and continous relative phase.
 
-
-
-The project contains MATLAB and R scripts related to motion analysis. Specifically, it includes direct linear transformation, statistical parametric mapping, among several kinematics and kinetics analysis.
